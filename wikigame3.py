@@ -36,7 +36,7 @@ def grab_links(title):
 
 def main():
     # Print a welcome message
-    # Grab the player's start and goal articles
+    # Ask the player for their start and goal articles
 
     # Loop until goal article is reached
         # Grab and print the article titles linked within the current article
